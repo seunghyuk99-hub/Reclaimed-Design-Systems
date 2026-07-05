@@ -66,7 +66,7 @@ function buildSystemsIndex() {
       tags,
       license,
       author,
-      thumbnail: `systems/${slug}/screenshots/00_thumb.png`,
+      thumbnail: `systems/${slug}/00_thumb.png`,
       aggregation_url: `systems/${slug}/aggregation.json`,
       meta_url: `systems/${slug}/meta.json`
     });
