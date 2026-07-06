@@ -8,6 +8,11 @@ This repository collects reusable aggregation/design systems for material reuse 
 
 <!-- CATALOG:START -->
 <!-- This section is automatically generated. Do not edit manually. -->
+
+| Preview | System |
+|---|---|
+| ![Multi-Bottle System](systems/bottles-system/00_thumb.png) | [Multi-Bottle System](systems/bottles-system/)<br><br>A system for reusing bottles with different sizes<br><br>by Andrea Rossi<br>[aggregation.json](systems/bottles-system/aggregation.json) · [meta.json](systems/bottles-system/meta.json) |
+
 <!-- CATALOG:END -->
 
 ## Repository structure
