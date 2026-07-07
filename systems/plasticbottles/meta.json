@@ -1,0 +1,28 @@
+{
+  "slug": "plasticbottles",
+  "title": "plastic bottles with 45 degree",
+  "authors": [
+    {
+      "name": "Seunghyuk Hyun, Han",
+      "affiliation": "Reclaim Seoul"
+    }
+  ],
+  "license": {
+    "value": "CC-BY-4.0"
+  },
+  "description": {
+    "short": "A system for reusing bottles with different sizes",
+    "long": ""
+  },
+  "tags": [],
+  "units": "mm",
+  "metrics": {
+    "parts_total": 3,
+    "rules_total": 42
+  },
+  "files": {
+    "aggregation": "plasticbottles/aggregation.json",
+    "meta": "plasticbottles/meta.json",
+    "thumbnail": "plasticbottles/00_thumb.jpg"
+  }
+}
