@@ -1,0 +1,28 @@
+{
+  "slug": "test-system",
+  "title": "Test system",
+  "authors": [
+    {
+      "name": "Andrea Rossi",
+      "affiliation": "Reclaim Seoul"
+    }
+  ],
+  "license": {
+    "value": "CC-BY-4.0"
+  },
+  "description": {
+    "short": "A system for reusing bottles with different sizes",
+    "long": ""
+  },
+  "tags": ["test", "system"],
+  "units": "mm",
+  "metrics": {
+    "parts_total": 2,
+    "rules_total": 9
+  },
+  "files": {
+    "aggregation": "test-system/aggregation.json",
+    "meta": "test-system/meta.json",
+    "thumbnail": "test-system/00_thumb.png"
+  }
+}
